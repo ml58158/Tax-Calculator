@@ -418,6 +418,7 @@
 				C42BCC991AA6D5A7000920FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C42BCC9A1AA6D5A7000920FD /* Build configuration list for PBXNativeTarget "Tax CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +427,7 @@
 				C42BCC9C1AA6D5A7000920FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
